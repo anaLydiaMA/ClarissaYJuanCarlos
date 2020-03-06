@@ -1,0 +1,52 @@
+.container{
+  width: 100%;
+  display: inline-grid;
+  height: auto;
+  min-height: 100vh;
+  text-align: center;
+}
+.header-container{
+  background-image: url('../../img/3.JPG');
+  height: 100%;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: auto 100vh;
+  filter: brightness(0.30) grayscale(100%);
+}
+.title-position{
+  position:absolute;
+  width: 100%;
+  margin-top: 30%;
+}
+.img-container{
+  padding-top: 10%;
+  background-color: #0e0e0e;
+}
+.image-style{
+  width: 100vw;
+  height: auto;
+  filter: grayscale(70%);
+}
+.map-style{
+  width: 100%;
+  height: auto;
+}
+.caption-space{
+  padding-bottom: 1vh !important;
+}
+.test-container{
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+.btn-style{
+  background: black;
+  color:white;
+  font-size: 1rem;
+  padding: 2vh 5vw;
+  margin-top:2vh;
+  margin-bottom:2vh;
+}
+.foot-container{
+  padding-bottom: 10%;
+  background-color: #0e0e0e;
+}

@@ -1,0 +1,26 @@
+/* Fonts */
+.Lato{
+  font-family: 'Lato', sans-serif;
+}
+.Dancing{
+  font-family: 'Dancing Script', cursive;
+}
+.white{
+  color: white;
+}
+.title{
+  font-size: 4rem;
+}
+.subtitle{
+  font-size: 2rem;
+}
+.paragraph{
+
+}
+.no-gutters{
+  margin: 0px;
+  padding:0px;
+}
+.font-weight-light{
+  font-weight: 300;
+}
