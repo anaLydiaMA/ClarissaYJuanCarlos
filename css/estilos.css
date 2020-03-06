@@ -21,9 +21,9 @@ img {
 
 /* cover */
 #cover {
-    background: #222 url('../img/night-sky-2284594.jpg') center center no-repeat;
+    background: #222 url('../img/3.jpeg') center center no-repeat;
     background-size: cover;
-    color: white;
+    color: black;
     height: 100%;
     text-align: center;
     display: flex;
@@ -32,7 +32,6 @@ img {
 
 #cover-texto {
     width: 100%;
-    
 }
 
 #cover-texto .form-inline{
@@ -41,11 +40,6 @@ img {
 
 .contenido-seccion {
     padding: 5rem 0;
-}
-
-#acerca-de {
-    background: url('../img/portrait-787522_1920.jpg') center center no-repeat;
-    background-size: cover;
 }
 
 .texto-acerca-de {
