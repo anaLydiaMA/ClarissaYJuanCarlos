@@ -38,9 +38,8 @@ class HomePage extends Component{
 
       <div id="church-information" className="inv-container">
         <h1 className="Dancing title subtitle">Familia</h1>
-        <h4 className="Lato font-weight-light description-text no-gutters"> Nos gustaría mucho que nos acompañaran a la Santa Misa el día 1ro de Mayo a las 13:00 horas.</h4>
-        <h4 className="Lato font-weight-light description-text"> En la que renovaremos nuestras promesas matrimoniales en compañía de nuestros hijos Ana Lydia, Luis Enrique y Juan Carlos.</h4>
-        <h4 className="Lato font-weight-light description-text"> En compañia de nuestros padrinos de hace 25 años, Pedro y Linda.</h4>
+        <h4 className="Lato font-weight-light description-text no-gutters"> Nos complace invitaros a la Santa Misa el día 1ro de Mayo a las 13:00 horas en la parroquia Maria Reina del Rosario, será presidida por el señor cura Luis Manuel Quiñones.</h4>
+        <h4 className="Lato font-weight-light description-text"> Renovaremos nuestras promesas matrimoniales en compañía de nuestros hijos Ana Lydia, Luis Enrique y Juan Carlos y en presencia de nuestros padrinos de hace 25 años, Pedro y Linda.</h4>
         <img src={church} alt="CJC" className="image-normal"/>
       </div>
 
