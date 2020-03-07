@@ -6,12 +6,12 @@
   text-align: center;
 }
 .header-container{
-  background-image: url('../../img/3.JPG');
+  background-image: url('../../img/title-image.JPG');
   height: 100%;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: auto 100vh;
-  filter: brightness(0.30) grayscale(100%);
+  filter: brightness(0.50) grayscale(100%);
 }
 .title-position{
   position:absolute;
@@ -27,9 +27,18 @@
   height: auto;
   filter: grayscale(70%);
 }
+.image-normal{
+  min-height: 7vh;
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 70%;
+  height: auto;
+  filter: grayscale(30%);
+}
 .map-style{
   width: 100%;
   height: auto;
+  margin-top:2vh;
 }
 .caption-space{
   padding-bottom: 1vh !important;
@@ -49,4 +58,11 @@
 .foot-container{
   padding-bottom: 10%;
   background-color: #0e0e0e;
+}
+.description-text{
+  padding-right: 9%;
+  padding-left: 9%;
+}
+.space-on-text{
+  padding-top: 10%
 }
