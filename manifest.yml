@@ -1,0 +1,9 @@
+applications:
+- name: wedding
+  disk_quota: 1G
+  instances: 1
+  memory: 128M
+  routes:
+  - route: wedding-cyj.mybluemix.net
+  stack: cflinuxfs3
+  buildpacks: sdk-for-nodejs
