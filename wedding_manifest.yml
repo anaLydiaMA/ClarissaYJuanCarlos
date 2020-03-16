@@ -1,11 +1,11 @@
 applications:
-- name: wedding
+- name: REACT-ANA
   disk_quota: 1G
   command: node app.js
   instances: 1
   memory: 128M
   routes:
-  - route: wedding-cyj.mybluemix.net
+  - route: react-ana.mybluemix.net
   stack: cflinuxfs3
   buildpacks:
   - sdk-for-nodejs

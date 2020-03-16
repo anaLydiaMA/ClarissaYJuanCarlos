@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import './HomePage.css';
 import image1 from '../../img/1.JPG';
 import image2 from '../../img/2.JPG';
-import image3 from '../../img/3.JPG';
+import image3 from '../../img/32.jpeg';
 import image5 from '../../img/5.JPG';
 import church from '../../img/church.jpg';
 import party from '../../img/party.jpeg';
